@@ -1,0 +1,1 @@
+../_posts/2015-10-19-some-page-title.md
