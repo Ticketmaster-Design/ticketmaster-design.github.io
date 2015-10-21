@@ -28,7 +28,7 @@ sections: [
 
 # Keep as an empty string if served up at the root. If served up at a specific
 # path (e.g. on GitHub pages) leave off the trailing slash, e.g. /my-project
-baseurl: 'file:///Users/adit/Box%20Sync/ticketmaster-design.github.io/_site'
+baseurl: 'http://ticketmaster-design.github.io'
 
 # Dates are not included in permalinks
 permalink: none
