@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>TM/Design : Color Palette</title>
+        <meta name="description" content="Mobile Style Guide">
+
+        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet">
+        <script src="https://cdn.rawgit.com/zenorocha/clipboard.js/master/dist/clipboard.min.js"></script>
+        <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Source+Code+Pro:300,400,500' rel='stylesheet' type='text/css'>
+        <link rel="stylesheet" href="file:///Users/adit/Box%20Sync/ticketmaster-design.github.io/_site/css/syntax.css">
+        <link rel="stylesheet" href="file:///Users/adit/Box%20Sync/ticketmaster-design.github.io/_site/css/app.css">
+    </head>
+    <body>
+        <section id="headerwrap">
+            <header class="container">
+                <div class="row">
+<h1 class="col-sm-3"><a class="brand" href="file:///Users/adit/Box%20Sync/ticketmaster-design.github.io/_site/">TM/Design</a></h1>
+</div>
+
+            </header>
+        </section>
+        <section class="container">
+            <div class="row">
+                
+                
+                    <div id="navigation" class="col-sm-3">
+                        <ul class="nav nav-list">
+    <li><a href="file:///Users/adit/Box%20Sync/ticketmaster-design.github.io/_site/">Start</a></li>
+    
+        
+        
+
+        
+            
+                <li class="nav-header">Common</li>
+            
+            <li data-order=""><a href="file:///Users/adit/Box%20Sync/ticketmaster-design.github.io/_site/common/accessibility.html">Accessibility</a></li>
+        
+            
+            <li data-order=""><a href="file:///Users/adit/Box%20Sync/ticketmaster-design.github.io/_site/common/imagery.html">Imagery</a></li>
+        
+            
+            <li data-order=""><a href="file:///Users/adit/Box%20Sync/ticketmaster-design.github.io/_site/common/iconography.html">Iconography</a></li>
+        
+            
+            <li data-order=""><a href="file:///Users/adit/Box%20Sync/ticketmaster-design.github.io/_site/common/language-and-voice.html">Language and Voice</a></li>
+        
+            
+            <li data-order=""><a href="file:///Users/adit/Box%20Sync/ticketmaster-design.github.io/_site/common/colors.html">Color Palette</a></li>
+        
+    
+        
+        
+
+        
+            
+                <li class="nav-header">iOS Patterns</li>
+            
+            <li data-order=""><a href="file:///Users/adit/Box%20Sync/ticketmaster-design.github.io/_site/iospatterns/some-page-title.html">Layout and Spacing</a></li>
+        
+    
+        
+        
+
+        
+    
+        
+        
+
+        
+    
+        
+        
+
+        
+    
+        
+        
+
+        
+    
+        
+        
+
+        
+    
+        
+        
+
+        
+    
+        
+        
+
+        
+    
+        
+        
+
+        
+    
+        
+        
+
+        
+    
+<!-- List additional links. It is recommended to add a divider
+    e.g. <li class="divider"></li> first to break up the content. -->
+</ul>
+
+                    </div>
+
+                    <div id="content" class="col-sm-9">
+                        <div class="page-header">
+    <h5>Mobile Style Guide → common</h5>
+    <h2>Color Palette</h2>
+</div>
+<h3 id="pacific">Pacific</h3>
+
+<p><button data-clipboard-text="#009CDE" style="background:#009CDE" class="color cbtn">#009CDE <label>Normal</label></button>
+<button data-clipboard-text="#0074A6" style="background:#0074A6" class="color cbtn">#0074A6 <label>Pressed</label></button>
+<button data-clipboard-text="#BFE6F6" style="background:#BFE6F6" class="color cbtn">#BFE6F6 <label>Disabled</label></button></p>
+
+<p>Usage:</p>
+
+<ul>
+<li>Primary Actions (CTA buttons, links, etc.)</li>
+<li>Primary Accent (Navigation Bars, Headers, App Bars)</li>
+</ul>
+
+<h3 id="sierra">Sierra</h3>
+
+<p><button data-clipboard-text="#475058" style="background:#475058" class="color cbtn">#475058 <label>Normal</label></button>
+<button data-clipboard-text="#58646D" style="background:#58646D" class="color cbtn">#58646D <label>Pressed</label></button>
+<button data-clipboard-text="#DCE0E3" style="background:#DCE0E3" class="color cbtn">#DCE0E3 <label>Disabled</label></button></p>
+
+<p>Usage:</p>
+
+<ul>
+<li>Primary Body Text</li>
+</ul>
+
+<h3 id="ridge">Ridge</h3>
+
+<p><button data-clipboard-text="#F6F7F9" style="background:#F6F7F9" class="color cbtn">#F6F7F9</button></p>
+
+<p>Usage:</p>
+
+<ul>
+<li>Background</li>
+</ul>
+
+<script>
+new Clipboard('.btn');
+</script>
+
+                    </div>
+                
+            </div>
+
+            <div class="row">
+                <div id="footer" class="col-sm-12">
+                    
+                </div>
+            </div>
+        </section>
+        <script>
+            new Clipboard('.cbtn');
+        </script>
+        <script>
+            function orderNav() {
+                var list,
+                    section,
+                    header,
+                    sections = [],
+                    lists = {},
+                    headers = {};
+
+                var navUl = document.querySelectorAll('#navigation ul')[0],
+                    navLis = document.querySelectorAll('#navigation ul li');
+
+                if (!navUl) return;
+
+                for (var i = 0; i < navLis.length; i++) {
+                    var order, li = navLis[i];
+
+                    if (li.classList.contains('nav-header')) {
+                        section = li.textContent || li.innerText;
+                        sections.push(section);
+                        headers[section] = li;
+                        continue;
+                    }
+
+                    if (!lists[section]) {
+                        lists[section] = [];
+                    }
+
+                    order = parseFloat(li.getAttribute('data-order'))
+                    lists[section].push([order, li]);
+                }
+
+                for (var i = 0; i < sections.length; i++) {
+                    section = sections[i];
+                    list = lists[section].sort(function(a, b) {
+                        return a[0] - b[0];
+                    });
+
+                    if (header = headers[section]) {
+                        navUl.appendChild(header);
+                    }
+                    for (var j = 0; j < list.length; j++) {
+                        navUl.appendChild(list[j][1]);
+                    }
+                }
+            }
+
+            if (document.querySelectorAll) orderNav();
+        </script>
+        
+    </body>
+</html>

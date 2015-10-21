@@ -2,9 +2,6 @@
 title: 'TM/Design'
 subtitle: 'Mobile Style Guide'
 
-# if you wish to integrate disqus on pages set your shortname here
-disqus_shortname: ''
-
 # if you use google analytics, add your tracking id here
 google_analytics_id: ''
 
@@ -16,7 +13,7 @@ navigation: 1
 
 # Default categories (in order) to appear in the navigation
 sections: [
-    ['common', 'Common Style and Patterns'],
+    ['common', 'Common'],
     ['iospatterns', 'iOS Patterns'],
     ['ioscomponents', 'iOS Components'],
     ['iosanimation', 'iOS Animation'],
@@ -31,7 +28,7 @@ sections: [
 
 # Keep as an empty string if served up at the root. If served up at a specific
 # path (e.g. on GitHub pages) leave off the trailing slash, e.g. /my-project
-baseurl: 'file:///Users/adit/Downloads/jekyll-docs-template-master/_site'
+baseurl: 'file:///Users/adit/Box%20Sync/ticketmaster-design.github.io/_site'
 
 # Dates are not included in permalinks
 permalink: none

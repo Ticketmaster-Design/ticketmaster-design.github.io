@@ -1,0 +1,20 @@
+#navigation {
+	font-size: 1em;
+    padding-top: 1em;
+	li.nav-header {
+		color: $lightgrey;
+	    font-weight: bold;
+	    margin-top: .5em;
+	    padding-top: .5em;
+	}
+	li a {
+		border-left: .2em solid $bluegrey;
+		color: $lightgrey;
+		margin: 0 0 0 0.5em;
+	    padding: .2em 0 .2em .5em;
+    	&:hover {
+    		color: $blue;
+    		background: none;
+    	}
+	}
+}
