@@ -1,6 +1,8 @@
 ---
 layout: default
-title: "Jekyll Docs Template"
+title: "Mobile Style Guide"
 ---
 
-### TM Design
+## Mobile Style Guide
+### What is this?
+### How do I contribute?

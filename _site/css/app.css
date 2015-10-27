@@ -2,27 +2,27 @@
   font-family: "Interstate";
   font-style: normal;
   font-weight: normal;
-  src: url("../fonts/Interstate-Black.eot?#iefix") format("embedded-opentype"), url("../fonts/Interstate-Black.woff2") format("woff2"), url("../fonts/Interstate-Black.woff") format("woff"), url("../fonts/Interstate-Black.ttf") format("truetype"), url("../fonts/Interstate-Black.svg#Interstate") format("svg"); }
+  src: url("../fonts/Interstate-Black.eot?#iefix") format("embedded-opentype"), url("../fonts/Interstate-Black.woff") format("woff"), url("../fonts/Interstate-Black.ttf") format("truetype"), url("../fonts/Interstate-Black.svg#Interstate") format("svg"); }
 @font-face {
   font-family: "TM Sans";
   font-style: normal;
   font-weight: normal;
-  src: url("../fonts/TMSans-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/TMSans-Regular.woff2") format("woff2"), url("../fonts/TMSans-Regular.woff") format("woff"), url("../fonts/TMSans-Regular.ttf") format("truetype"), url("../fonts/TMSans-Regular.svg#TM Sans") format("svg"); }
+  src: url("../fonts/TMSans-Regular.eot?#iefix") format("embedded-opentype"), url("../fonts/TMSans-Regular.woff") format("woff"), url("../fonts/TMSans-Regular.ttf") format("truetype"), url("../fonts/TMSans-Regular.svg#TM Sans") format("svg"); }
 @font-face {
   font-family: "TM Sans";
   font-style: italic;
   font-weight: normal;
-  src: url("../fonts/TMSans-Italic.eot?#iefix") format("embedded-opentype"), url("../fonts/TMSans-Italic.woff2") format("woff2"), url("../fonts/TMSans-Italic.woff") format("woff"), url("../fonts/TMSans-Italic.ttf") format("truetype"), url("../fonts/TMSans-Italic.svg#TM Sans") format("svg"); }
+  src: url("../fonts/TMSans-Italic.eot?#iefix") format("embedded-opentype"), url("../fonts/TMSans-Italic.woff") format("woff"), url("../fonts/TMSans-Italic.ttf") format("truetype"), url("../fonts/TMSans-Italic.svg#TM Sans") format("svg"); }
 @font-face {
   font-family: "TM Sans";
   font-style: normal;
   font-weight: lighter;
-  src: url("../fonts/TMSans-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/TMSans-Light.woff2") format("woff2"), url("../fonts/TMSans-Light.woff") format("woff"), url("../fonts/TMSans-Light.ttf") format("truetype"), url("../fonts/TMSans-Light.svg#TM Sans") format("svg"); }
+  src: url("../fonts/TMSans-Light.eot?#iefix") format("embedded-opentype"), url("../fonts/TMSans-Light.woff") format("woff"), url("../fonts/TMSans-Light.ttf") format("truetype"), url("../fonts/TMSans-Light.svg#TM Sans") format("svg"); }
 @font-face {
   font-family: "TM Sans";
   font-style: normal;
   font-weight: bold;
-  src: url("../fonts/TMSans-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/TMSans-Bold.woff2") format("woff2"), url("../fonts/TMSans-Bold.woff") format("woff"), url("../fonts/TMSans-Bold.ttf") format("truetype"), url("../fonts/TMSans-Bold.svg#TM Sans") format("svg"); }
+  src: url("../fonts/TMSans-Bold.eot?#iefix") format("embedded-opentype"), url("../fonts/TMSans-Bold.woff") format("woff"), url("../fonts/TMSans-Bold.ttf") format("truetype"), url("../fonts/TMSans-Bold.svg#TM Sans") format("svg"); }
 body {
   background: #F6F7F9;
   color: #475058;
