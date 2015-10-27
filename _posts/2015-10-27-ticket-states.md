@@ -8,7 +8,7 @@ date: 2015-10-27 10:59:47
 ###Purchased
 <img src="../images/ticket.png">
 <br />
-Ticket with no actions
+Ticket has been purchased and is elibible for transfer and sale
 
 ###Not Yet Listed
 <img src="../images/ticket_listed_soon.png">
