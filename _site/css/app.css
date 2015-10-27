@@ -1,28 +1,28 @@
 @font-face {
-  font-family: 'Interstate';
-  src: url("../fonts/Interstate-Black.otf");
-  font-weight: bolder;
-  font-style: normal; }
-@font-face {
-  font-family: 'TM Sans';
-  src: url("../fonts/TMSans-Regular.otf");
+  font-family: "Interstate";
+  font-style: normal;
   font-weight: normal;
-  font-style: normal; }
+  src: url("../fonts/Interstate-Black.eot?#iefix") format("embedded-opentype"); }
 @font-face {
-  font-family: 'TM Sans';
-  src: url("../fonts/TMSans-Italic.otf");
+  font-family: "TM Sans";
+  font-style: normal;
   font-weight: normal;
-  font-style: italic; }
+  src: url("../fonts/TMSans-Regular.eot?#iefix") format("embedded-opentype"); }
 @font-face {
-  font-family: 'TM Sans';
-  src: url("../fonts/TMSans-Light.otf");
+  font-family: "TM Sans";
+  font-style: italic;
+  font-weight: normal;
+  src: url("../fonts/TMSans-Italic.eot?#iefix") format("embedded-opentype"); }
+@font-face {
+  font-family: "TM Sans";
+  font-style: normal;
   font-weight: lighter;
-  font-style: normal; }
+  src: url("../fonts/TMSans-Light.eot?#iefix") format("embedded-opentype"); }
 @font-face {
-  font-family: 'TM Sans';
-  src: url("../fonts/TMSans-Bold.otf");
+  font-family: "TM Sans";
+  font-style: normal;
   font-weight: bold;
-  font-style: normal; }
+  src: url("../fonts/TMSans-Bold.eot?#iefix") format("embedded-opentype"); }
 body {
   background: #F6F7F9;
   color: #475058;
