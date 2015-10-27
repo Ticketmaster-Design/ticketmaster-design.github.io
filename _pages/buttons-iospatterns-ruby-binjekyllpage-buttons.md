@@ -1,0 +1,1 @@
+../_posts/2015-10-27-buttons-iospatterns-ruby-binjekyllpage-buttons.md
