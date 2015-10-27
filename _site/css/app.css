@@ -2,7 +2,7 @@
   font-family: "Interstate";
   font-style: normal;
   font-weight: normal;
-  src: url("../fonts/Interstate-Black.otf.eot?#iefix") format("embedded-opentype"), url("../fonts/Interstate-Black.otf.woff2") format("woff2"), url("../fonts/Interstate-Black.otf.woff") format("woff"), url("../fonts/Interstate-Black.otf.ttf") format("truetype"), url("../fonts/Interstate-Black.otf.svg#Interstate") format("svg"); }
+  src: url("../fonts/Interstate-Black.eot?#iefix") format("embedded-opentype"), url("../fonts/Interstate-Black.woff2") format("woff2"), url("../fonts/Interstate-Black.woff") format("woff"), url("../fonts/Interstate-Black.ttf") format("truetype"), url("../fonts/Interstate-Black.svg#Interstate") format("svg"); }
 @font-face {
   font-family: "TM Sans";
   font-style: normal;
