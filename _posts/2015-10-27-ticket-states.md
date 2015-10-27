@@ -21,6 +21,6 @@ Ticket that is not yet listed, but will be listed soon
 Ticket transfer has been initiated and is waiting for recipient to accept
 
 ###Ticket Edit
-<img src="../images/ticket_edit.png">
+<img src="../images/ticket_remove_edit.png">
 <br />
 Ticket can be removed or edited
