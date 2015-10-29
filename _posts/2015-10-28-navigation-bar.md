@@ -7,7 +7,7 @@ date: 2015-10-28 13:29:20
 
 ###Search
 
-![Navigation Bar Search](../images/nav_bar_search.png)
+![Navigation Bar Search](../images/nav_bar_search@2x.png)
 
 * Displayed on the Discover view
 
@@ -15,7 +15,7 @@ date: 2015-10-28 13:29:20
 
 ###Search Active
 
-![Navigation Bar Search Active](../images/nav_bar_search_active.png)
+![Navigation Bar Search Active](../images/nav_bar_search_active@2x.png)
 
 * Displayed on the Discover view
 
@@ -23,7 +23,7 @@ date: 2015-10-28 13:29:20
 
 ###Event Detail
 
-![Navigation Bar Event Detail](../images/nav_bar_event_detail.png)
+![Navigation Bar Event Detail](../images/nav_bar_event_detail@2x.png)
 
 * Displayed on the Event Detail view
 
@@ -31,19 +31,19 @@ date: 2015-10-28 13:29:20
 
 ###Purchase Modal
 
-![Navigation Bar Purchase Modal](../images/nav_bar_purchase_modal.png)
+![Navigation Bar Purchase Modal](../images/nav_bar_purchase_modal@2x.png)
 
 * Displayed when tapping "Find Tickets" from the event detail view
 
 ###Orders
 
-![Navigation Bar Orders](../images/nav_bar_orders.png)
+![Navigation Bar Orders](../images/nav_bar_orders@2x.png)
 
 * Displayed when tapping the "My Tickets" tab
 
 ###Messages
 
-![Navigation Bar Messages](../images/nav_bar_messages.png)
+![Navigation Bar Messages](../images/nav_bar_messages@2x.png)
 
 * Displayed when tapping the "Messages" tab
 

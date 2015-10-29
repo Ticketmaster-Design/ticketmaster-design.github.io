@@ -6,7 +6,7 @@ date: 2015-10-29 10:26:51
 ---
 
 ###Horizontal Quantity Picker
-![Button Find Tickets](../images/picker_horizontal_quantity.png)
+![Button Find Tickets](../images/picker_horizontal_quantity@2x.png)
 
 * Used to select ticket quantity from the event detail view
 
